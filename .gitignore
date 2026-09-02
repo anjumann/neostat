@@ -1,0 +1,20 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Built bundle — regenerate with ./make-app.sh
+NeoStat.app/
+
+# macOS
+.DS_Store
+
+# Editors
+*.xcuserstate
+xcuserdata/
+.vscode/
+.idea/
+
+# Local captures from --selftest
+shots/
+*.png
